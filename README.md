@@ -8,5 +8,9 @@ Now I want to try Markdown.
 ## Main Tasks
 1. Creating the Data Structure
 2. Creating the Business Logic
-3. Creating the User Interface 
-*For more information, refer to [SAP Help Portal ](http://help.sap.com).*
+3. Creating the User Interface
+
+
+For more information, refer to [SAP Help Portal ](http://help.sap.com).
+
+
